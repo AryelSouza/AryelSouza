@@ -12,6 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
+- 📚 I'm a Computer Engineering student at the Federal Institute of Science and Technology
 - 🔭 I’m currently working on a Data Science Project
 - 🌱 I’m currently learning C
 - 💬 Ask me about anything!

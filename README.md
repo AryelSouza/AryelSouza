@@ -7,6 +7,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-aryel.aryano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryel.aryano@gmail.com)](mailto:aryel.aryano@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AryelSouza.AryelSouza)
 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 - 🔭 I’m currently working on a Data Science Project
 - 🌱 I’m currently learning C
 - 💬 Ask me about anything!

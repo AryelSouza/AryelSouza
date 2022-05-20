@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-aryelsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryel-souza/)](https://www.linkedin.com/in/aryel-souza/)
 [![Gmail Badge](https://img.shields.io/badge/-aryel.aryano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryel.aryano@gmail.com)](mailto:aryel.aryano@gmail.com)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AryelSouza.AryelSouza)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning 
@@ -19,27 +19,4 @@
 ![AryelSouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryelSouza&theme=merko&show_icons=true)
 
 
-<br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/c-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AryelSouza.AryelSouza)

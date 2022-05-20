@@ -12,5 +12,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![AryelSouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryelSouza&theme=murko&show_icons=true)
+![AryelSouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryelSouza&theme=merko&show_icons=true)
 

@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!
 
 ![Chrono](https://user-images.githubusercontent.com/100427890/169617336-9c3c972b-19ca-4ee1-8e5d-4067525e7585.gif)
 

@@ -15,8 +15,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 - 📚 I'm a Computer Engineering student at the Federal Institute of Science and Technology
-- 🔭 I’m currently working on a Data Science Project
-- 🌱 I’m currently learning C
+- 🔭 I’m currently studying web development
+- 🌱 I’m currently learning Javascript(Jquery,Vue.js)
 - 💬 Ask me about anything!
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AryelSouza&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryelSouza&layout=compact&langs_count=7&theme=merko"/>

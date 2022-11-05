@@ -1,6 +1,7 @@
 # Hello, folks!
 
-![Chrono](https://user-images.githubusercontent.com/100427890/169617336-9c3c972b-19ca-4ee1-8e5d-4067525e7585.gif)
+
+![Chrono](https://user-images.githubusercontent.com/100427890/169617336-9c3c972b-19ca-4ee1-8e5d-4067525e7585.gif)![nome](https://user-images.githubusercontent.com/100427890/200104116-ed81a33b-ba4e-4c70-a7c9-aa20b3a75c9a.gif)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-aryelsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryel-souza/)](https://www.linkedin.com/in/aryel-souza/)

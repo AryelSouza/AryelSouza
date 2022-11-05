@@ -22,6 +22,8 @@
 - 🌱 I’m currently learning Javascript(React,Jquery,Vue.js)
 - 💬 Ask me about anything!
 
+
+### &#x1f4c8; GitHub Stats
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AryelSouza&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryelSouza&layout=compact&langs_count=7&theme=merko"/>
 
 

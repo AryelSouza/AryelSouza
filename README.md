@@ -21,7 +21,7 @@
   /></code>
 
 - 📚 I'm a Computer Engineering student at the Federal Institute of Science and Technology
-- 🔭 I’m currently studying full stack web development
+- 🔭 I am studying to become a full stack web developer
 - 🌱 I’m currently learning Javascript(React,Jquery,Vue.js)
 - 💬 Ask me about anything!
 

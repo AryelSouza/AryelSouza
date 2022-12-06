@@ -17,6 +17,8 @@
 <code><img alt="SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" 
   /></code>
+<code><img alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" 
+  /></code>
 
 - 📚 I'm a Computer Engineering student at the Federal Institute of Science and Technology
 - 🔭 I’m currently studying full stack web development

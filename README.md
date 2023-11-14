@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-aryelsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryel-souza/)](https://www.linkedin.com/in/aryel-souza/)
 [![Gmail Badge](https://img.shields.io/badge/-aryel.aryano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryel.aryano@gmail.com)](mailto:aryel.aryano@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AryelSouza.AryelSouza)
+
 
 
 <code><img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>

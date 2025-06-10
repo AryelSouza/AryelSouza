@@ -22,7 +22,7 @@ Hardware Engineer" /></a>
   /></code>
 
 - 📚 I'm a Computer Engineering student at the Federal Institute of Science and Technology
-- 🔭 I am studying to become a Hardware Engineer
+- 🔭 I am studying to become a Hardware Engineer and Game Dev!
 - 🌱 I’m currently learning SystemVerilog
 - 💬 Ask me about anything!
 

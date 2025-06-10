@@ -1,8 +1,9 @@
 # Hello, folks!
 
 
-![Chrono](https://user-images.githubusercontent.com/100427890/169617336-9c3c972b-19ca-4ee1-8e5d-4067525e7585.gif)![nome](https://user-images.githubusercontent.com/100427890/200104116-ed81a33b-ba4e-4c70-a7c9-aa20b3a75c9a.gif)
-
+![Chrono](https://user-images.githubusercontent.com/100427890/169617336-9c3c972b-19ca-4ee1-8e5d-4067525e7585.gif)<a href="https://cooltext.com"><img src="https://images.cooltext.com/5732909.png" width="384" height="108" alt="      Aryel Souza
+Hardware Engineer" /></a>
+<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-aryelsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryel-souza/)](https://www.linkedin.com/in/aryel-souza/)
 [![Gmail Badge](https://img.shields.io/badge/-aryel.aryano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryel.aryano@gmail.com)](mailto:aryel.aryano@gmail.com)

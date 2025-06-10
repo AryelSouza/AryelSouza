@@ -21,8 +21,8 @@
   /></code>
 
 - 📚 I'm a Computer Engineering student at the Federal Institute of Science and Technology
-- 🔭 I am studying to become a full stack web developer
-- 🌱 I’m currently learning Javascript(React,Jquery,Vue.js)
+- 🔭 I am studying to become a Hardware Engineer
+- 🌱 I’m currently learning SystemVerilog
 - 💬 Ask me about anything!
 
 

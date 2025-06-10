@@ -1,7 +1,7 @@
 # Hello, folks!
 
 
-![Chrono](https://user-images.githubusercontent.com/100427890/169617336-9c3c972b-19ca-4ee1-8e5d-4067525e7585.gif)<a href="https://cooltext.com"><img src="https://images.cooltext.com/5732909.png" width="384" height="108" alt="      Aryel Souza
+![Chrono](https://user-images.githubusercontent.com/100427890/169617336-9c3c972b-19ca-4ee1-8e5d-4067525e7585.gif)<a href="https://cooltext.com"><img src="https://images.cooltext.com/5732909.png" width="300" height="100" alt="      Aryel Souza
 Hardware Engineer" /></a>
 <br />
 

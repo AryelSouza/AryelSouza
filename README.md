@@ -2,9 +2,19 @@
 
 
 ![Chrono](https://user-images.githubusercontent.com/100427890/169617336-9c3c972b-19ca-4ee1-8e5d-4067525e7585.gif)<a href="https://cooltext.com">
-
-
-                                                                          
+```text
+                                          ___           ___                       ___                   
+                                         /  /\         /  /\          ___        /  /\                  
+                                        /  /::\       /  /::\        /__/|      /  /:/_                 
+                                       /  /:/\:\     /  /:/\:\      |  |:|     /  /:/ /\    ___     ___ 
+                                      /  /:/~/::\   /  /:/~/:/      |  |:|    /  /:/ /:/_  /__/\   /  /\
+                                     /__/:/ /:/\:\ /__/:/ /:/___  __|__|:|   /__/:/ /:/ /\ \  \:\ /  /:/
+                                     \  \:\/:/__\/ \  \:\/:::::/ /__/::::\   \  \:\/:/ /:/  \  \:\  /:/ 
+                                      \  \::/       \  \::/~~~~     ~\~~\:\   \  \::/ /:/    \  \:\/:/  
+                                       \  \:\        \  \:\           \  \:\   \  \:\/:/      \  \::/   
+                                        \  \:\        \  \:\           \__\/    \  \::/        \__\/    
+                                         \__\/         \__\/                     \__\/                   
+```                                                                          
 [![Linkedin Badge](https://img.shields.io/badge/-aryelsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryel-souza/)](https://www.linkedin.com/in/aryel-souza/)
 [![Gmail Badge](https://img.shields.io/badge/-aryel.aryano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryel.aryano@gmail.com)](mailto:aryel.aryano@gmail.com)
 

@@ -18,7 +18,7 @@
 ```
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100427890/169617336-9c3c972b-19ca-4ee1-8e5d-4067525e7585.gif" alt="Chrono" />
+  <img src="Gifs/Chrono.gif" alt="Chrono" />
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-aryelsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryel-souza/)](https://www.linkedin.com/in/aryel-souza/)
